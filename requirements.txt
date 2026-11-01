@@ -1,0 +1,9 @@
+# Python packages this app uses (installed by install.bat)
+streamlit>=1.50      # the web interface, written in Python
+pandas>=2.2          # reading the CoFID spreadsheet and USDA CSV files
+openpyxl>=3.1        # lets pandas open Excel (.xlsx) files
+rapidfuzz>=3.9       # fuzzy food-name search
+zxing-cpp>=2.2       # reading barcodes from photos (offline)
+pillow>=10.0         # opening images
+requests>=2.31       # talking to Open Food Facts and Ollama
+pytest>=8.0          # running the tests

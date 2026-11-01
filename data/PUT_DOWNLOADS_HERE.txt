@@ -1,0 +1,13 @@
+Put the downloaded food database files in this folder:
+
+1. UK CoFID 2021 Excel file (.xlsx) from
+   https://www.gov.uk/government/publications/composition-of-foods-integrated-dataset-cofid
+
+2. USDA FoodData Central CSV zips (keep them zipped) from
+   https://fdc.nal.usda.gov/download-datasets
+   - SR Legacy  (April 2018, CSV)
+   - Foundation Foods (latest, CSV)
+
+Then open the app, go to "Data & settings" and press Import.
+Your own database (nutrition.db) and settings (settings.json) are also kept here.
+Back up this folder to keep your diary.
